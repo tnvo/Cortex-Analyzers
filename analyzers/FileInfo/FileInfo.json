@@ -11,7 +11,7 @@
   "configurationItems": [
     {
       "name": "manalyze_enable",
-      "description": "Wether to enable manalyze submodule or not.",
+      "description": "Whether to enable manalyze submodule or not.",
       "type": "boolean",
       "required": true,
       "multi": false
